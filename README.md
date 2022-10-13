@@ -1,9 +1,8 @@
-
+[![@zakkaulwann's Holopin board](https://holopin.me/zakkaulwann)](https://holopin.io/@zakkaulwann)
 <h1 align="center">Hi 👋, I'm Zakka Ulwan</h1>
 <h3 align="center">Not a passionate developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
-[![@zakkaulwann's Holopin board](https://holopin.me/zakkaulwann)](https://holopin.io/@zakkaulwann)
 
 <p align="left"> <a href="https://twitter.com/zakkaulwann" target="blank"><img src="https://img.shields.io/twitter/follow/zakkaulwann?logo=twitter&style=for-the-badge" alt="zakkaulwann" /></a> </p>
 
